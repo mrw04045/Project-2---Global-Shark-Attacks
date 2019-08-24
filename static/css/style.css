@@ -1,0 +1,30 @@
+body {
+  background-image: url("../images/background.jpg");
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.panel-heading {
+  position: relative;
+  padding: 10px;
+  font-size:200%;
+  font-weight:bold;
+}
+
+.list-group-item{
+  background-color:transparent;
+  font-size:120%;
+  font-weight:bold;
+}
+
+.btn {
+  background-color: darkseagreen;
+  font-weight:bold;
+}
+
+.container-full {
+  padding-right: 50px;
+  padding-left: 40px;
+  padding-top: 40px;
+}

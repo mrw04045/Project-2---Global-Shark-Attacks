@@ -1,0 +1,27 @@
+.tooltip {
+  position: absolute;
+  width: 90px;
+  height: 62px;
+  padding: 10px;
+  font: 12px sans-serif;
+  text-align: center;
+  color: white;
+  background: rgb(25, 25, 65);
+  border: 0;
+  border-radius: 10px;
+}
+
+.axisLabel {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.domain {
+  stroke: white;
+}
+
+.tick {
+  stroke: black;
+  font-size: 15px;
+  font-weight: bold;
+}
